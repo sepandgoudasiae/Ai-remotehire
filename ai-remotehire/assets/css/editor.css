@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=Work+Sans:wght@400;500;600&display=swap');
+.editor-styles-wrapper { font-family: 'Work Sans', sans-serif; color: #132a32; background: #f7f5ef; }
+.editor-styles-wrapper h1, .editor-styles-wrapper h2, .editor-styles-wrapper h3 { font-family: 'Sora', sans-serif; }
+.editor-styles-wrapper .wp-block { max-width: 720px; }
+.editor-styles-wrapper .wp-block[data-align='wide'] { max-width: 1200px; }
